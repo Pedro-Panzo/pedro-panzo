@@ -1,8 +1,5 @@
 ### Olá! Eu sou Pedro 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 Hoje  trabalho com C#
 - 🌱 Estou aprendendo TypeScript e Angular
 - 😄 Pronouns: ele/dele

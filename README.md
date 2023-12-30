@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+Pedro+Panzo;Tenho+22+anos+de+idade;Eu+sou+de+Angola,+Luanda;Estudante+da+Ciência+da+Computação;Seje+Bemvindo!%29)](https://git.io/typing-svg)
+
 # Olá, eu sou Pedro
 - 😄 Pronouns: ele/dele
   
@@ -7,13 +11,9 @@ Sou um desenvolvedor .NET apaixonado por criar soluções inovadoras e eficiente
 
 ## Projetos Destacados
 
-### Caracol Escolar
+### Caracol
 
-O sistema "CARACOL" é uma solução completa e eficiente para o gerenciamento escolar, projetada para atender às necessidades específicas de instituições educacionais de todos os tamanhos. Desenvolvido com a tecnologia .NET, o "CARACOL" oferece uma abordagem abrangente para simplificar processos administrativos, melhorar a comunicação e aprimorar a experiência de todos os envolvidos no ambiente educacional.
-
-### [Nome do Projeto 2]
-
-Breve descrição do projeto. Destaque as principais tecnologias utilizadas e os resultados alcançados.
+O pacote de sistema de gerenciamento "Caracol" é uma solução abrangente e integrada desenvolvida para atender às necessidades diversas de instituições em diferentes setores. Projetado com a mais recente tecnologia, o "CARACOL" oferece uma variedade de módulos interconectados, proporcionando uma gestão eficiente e simplificada em diversas áreas.
 
 ## Habilidades
 
@@ -49,12 +49,11 @@ Breve descrição do projeto. Destaque as principais tecnologias utilizadas e os
 
 Se você encontrar algum problema em meus projetos ou quiser contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request. Contribuições são bem-vindas!
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub & Linguagens Mais Usadas
+<div align='center'>
+  <img width="49%" height="195px" src='https://github-readme-stats.vercel.app/api?username=pedro-panzo&show_icons=true&count_private=true&hide=contribs,prs&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff'/>
+  <img width="41%" height="195px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-panzo&layout=compact&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff'/>  
+</div>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedro-panzo&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
-
-## Linguagens Mais Usadas
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-panzo&layout=compact&theme=dark)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-panzo&bg_color=0d1117&color=ffffff&line=007af0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

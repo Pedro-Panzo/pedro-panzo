@@ -51,7 +51,7 @@ Se você encontrar algum problema em meus projetos ou quiser contribuir, sinta-s
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedro-panzo&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedro-panzo&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
 
 ## Linguagens Mais Usadas
 

@@ -1,27 +1,41 @@
-### Olá! Eu sou Pedro 👋
+# Olá, eu sou [Seu Nome]
 
-- 🔭 Hoje  trabalho com C#
-- 🌱 Estou aprendendo TypeScript e Angular
-- 😄 Pronouns: ele/dele
+## Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
-</div>
-<br>
-<br>
-<br>
-<div> 
-  <a href="https://web.facebook.com/pedropanzo.teloy/" target="_blank"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/pedro_panzo53" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-panzo-131035269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+Sou um desenvolvedor .NET apaixonado por criar soluções inovadoras e eficientes. Minha experiência inclui [listar suas principais habilidades e experiências]. Estou sempre em busca de desafios interessantes e novas oportunidades de aprendizado.
+
+## Projetos Destacados
+
+### [Nome do Projeto 1]
+
+Breve descrição do projeto. Destaque as principais tecnologias utilizadas e os resultados alcançados.
+
+### [Nome do Projeto 2]
+
+Breve descrição do projeto. Destaque as principais tecnologias utilizadas e os resultados alcançados.
+
+## Habilidades
+
+- Linguagens: C#, .NET, ASP.NET, etc.
+- Bancos de Dados: SQL Server, MySQL, etc.
+- Outras habilidades relevantes.
+
+## Contato
+
+- LinkedIn: [Seu LinkedIn]
+- Twitter: [Seu Twitter]
+- Email: [Seu Email]
+
+## Contribuições
+
+Se você encontrar algum problema em meus projetos ou quiser contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request. Contribuições são bem-vindas!
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&count_private=true&hide=contribs,prs)
+
+## Linguagens Mais Usadas
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuario&layout=compact)
+
 

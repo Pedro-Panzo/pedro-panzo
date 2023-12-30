@@ -1,6 +1,6 @@
 # Olá, eu sou Pedro
 - 😄 Pronouns: ele/dele
-- 
+  
 ## Sobre mim
 
 Sou um desenvolvedor .NET apaixonado por criar soluções inovadoras e eficientes. Estou sempre em busca de desafios interessantes e novas oportunidades de aprendizado.
@@ -55,6 +55,6 @@ Se você encontrar algum problema em meus projetos ou quiser contribuir, sinta-s
 
 ## Linguagens Mais Usadas
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-panzo&layout=compact)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-panzo&layout=compact&logoColor=white)
 
 

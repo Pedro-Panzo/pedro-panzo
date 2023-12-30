@@ -55,6 +55,6 @@ Se você encontrar algum problema em meus projetos ou quiser contribuir, sinta-s
 
 ## Linguagens Mais Usadas
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-panzo&layout=compact&&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-panzo&layout=compact&theme=dark)
 
 

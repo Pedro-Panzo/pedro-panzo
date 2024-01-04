@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=447aa9&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=447aa9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+Pedro+Panzo;Tenho+22+anos+de+idade;Eu+sou+de+Angola,+Luanda;Estudante+da+Ciência+da+Computação;Seje+Bemvindo!%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=447aa9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+Pedro+Panzo;Tenho+22+anos+de+idade;Eu+sou+de+Angola,+Luanda;Estudante+da+Ciência+da+Computação;Seje+Bemvindo!)](https://git.io/typing-svg)
 
 # Olá, eu sou Pedro
 - 😄 Pronouns: ele/dele
